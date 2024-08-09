@@ -1,9 +1,19 @@
 <img src="https://media.licdn.com/dms/image/D5616AQHSP_2-q3Og4g/profile-displaybackgroundimage-shrink_350_1400/0/1684237783798?e=1728518400&v=beta&t=2gBMrDraeLa0TctmsyqKZ0gHBSaEC-7tQpQZCuNFBiY" width="100%" height="auto" alt="">
 
 <h1 align="center">Hi 👋, I'm Md Rony</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Web Developer with Huge love PHP & JS || WordPress Specialist || WordPress Theme Developer || WordPress Plugin Developer || WooCommerce Expert || Elementor & Divi Expert</h3>
 
 <p align="left"> <a href="https://twitter.com/wpexpert_mdrony" target="blank"><img src="https://img.shields.io/twitter/follow/wpexpert_mdrony?logo=twitter&style=for-the-badge" alt="wpexpert_mdrony" /></a> </p>
+
+- 🔭 I’m currently learning on **DSA**
+
+- 🌱 I enjoy programming and **learn new technology**
+
+- 🤝 I’m looking for help with **about WordPress**
+
+- 👨‍💻 All of my projects are available at [https://github.com/mdrony-b](https://github.com/mdrony-b)
+
+- 📫 How to reach me **mdrony.mail0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
