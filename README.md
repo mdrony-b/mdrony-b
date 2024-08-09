@@ -1,3 +1,5 @@
+<img src="https://media.licdn.com/dms/image/D5616AQHSP_2-q3Og4g/profile-displaybackgroundimage-shrink_350_1400/0/1684237783798?e=1728518400&v=beta&t=2gBMrDraeLa0TctmsyqKZ0gHBSaEC-7tQpQZCuNFBiY" width="100%" height="auto" alt="">
+
 <h1 align="center">Hi 👋, I'm Md Rony</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
