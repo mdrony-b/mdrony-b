@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mdrony-b](https://github.com/mdrony-b)
 
-- 📫 How to reach me **mdrony.mail0@gmail.com**
+- 📫 How to reach me **mdronybabu34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
